@@ -16,6 +16,6 @@ def is_perfect_square(num):
         return "Invalid input."
     
 print(is_perfect_square(9))
-print(is_perfect_square(100))
+print(is_perfect_square(111))
 print(is_perfect_square(225))
 print(is_perfect_square(500))
